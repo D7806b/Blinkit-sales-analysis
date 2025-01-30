@@ -1,4 +1,4 @@
-Blinkit Sales Dashboard
+# Blinkit Sales Dashboard
 
 # **Overview**
 # This is a Sales Dashboard for Blinkit, created using Excel. The dashboard visualizes the total sales by item, making it easy to analyze sales performance. It includes various charts like column/bar charts to display the sales data and allows for easy tracking of trends, insights, and comparisons across different items.
@@ -13,7 +13,7 @@ Blinkit Sales Dashboard
 # **Installation**
 # Download the repository to your local machine by cloning or downloading the ZIP file.
 # Clone with:
-# git clone https://github.com/your-username/blinkit-sales-dashboard.git
+# git clone https://github.com/D7806b/Blinkit-sales-analysis
 # Open the Excel file (blinkit analysis.xlsx) in Excel.
 
 # **Usage**
