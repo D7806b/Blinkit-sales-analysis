@@ -14,7 +14,7 @@
 # Download the repository to your local machine by cloning or downloading the ZIP file.
 # Clone with:
 # git clone https://github.com/your-username/blinkit-sales-dashboard.git
-# Open the Excel file (Blinkit_Sales_Dashboard.xlsx) in Excel.
+# Open the Excel file (blinkit analysis.xlsx) in Excel.
 
 # **Usage**
 # Open the Excel file.
